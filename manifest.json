@@ -1,0 +1,17 @@
+{
+  "name": "AB zigbee gateway",
+  "version": "",
+  "home_assistant_domain": "esphome",
+  "new_install_skip_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "ab-zigbee-gw-esp32/ab-zigbee-gw-esp32.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

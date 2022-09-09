@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "ab-zigbee-gw-esp32/ab-zigbee-gw-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
