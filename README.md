@@ -1,4 +1,4 @@
-# ESPHome Project Template
+# AB zigbee gateway
 
 This repo serves as a template for creating a new ESPHome project.
 
