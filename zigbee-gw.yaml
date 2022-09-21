@@ -48,9 +48,6 @@ time:
 #External component
 external_components:
   - source: github://oxan/esphome-stream-server
-  - source: github://pr#3751
-    components:
-      - ethernet
 
 # Extra sensor to keep track of gateway uptime
 text_sensor:
