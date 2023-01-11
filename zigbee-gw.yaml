@@ -12,12 +12,12 @@ esphome:
   platform: ESP32
   board: esp-wrover-kit
 
-ethernet:
-  type: IP101
-  mdc_pin: GPIO23
-  mdio_pin: GPIO18
-  clk_mode: GPIO17_OUT
-  phy_addr: 0
+#ethernet:
+  #type: IP101
+  #mdc_pin: GPIO23
+  #mdio_pin: GPIO18
+  #clk_mode: GPIO17_OUT
+  #phy_addr: 0
 
 wifi:
   ssid: Airalab_2.4G
