@@ -19,9 +19,9 @@ ethernet:
   clk_mode: GPIO17_OUT
   phy_addr: 0
 
-#wifi:
-  #ssid: YOUR-WIFI-SSID
-  #password: YOUR-WIFI-PASSWORD
+wifi:
+  ssid: Airalab_2.4G
+  password: RHXRPTUG
 
 # Enable logging
 logger:
